@@ -1,2 +1,2 @@
 # standoff2-dump
-Standoff 2 Dump
+Telegram: https://t.me/standoff2dump
